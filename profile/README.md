@@ -1,7 +1,9 @@
 **Developer tools and software**
 
 Im building open-source developer libraries with Claude using SDD SDLC.
+
 I care about tools that are correct under pressure, secure without configuration, and pleasant to adopt. 
+
 The kind of dependency you forget about because it never lets you down.
 
 Checkout [Contributing](https://github.com/TallyRow/safesignal/blob/main/CONTRIBUTING.md) if you want to contribute.
