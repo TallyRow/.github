@@ -1,4 +1,4 @@
-**Developer tools and software, built to be safe by default.**
+**Developer tools and software**
 
 Im building open-source developer libraries with Claude using SDD SDLC.
 I care about tools that are correct under pressure, secure without configuration, and pleasant to adopt. 
